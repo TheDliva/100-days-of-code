@@ -1,30 +1,15 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
+
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: August 19th, 2021:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Started the Facebook React tutorial with the tic tac toe game and was able to get half way through it in my hour also spent a bunch of time fiddling to get my environment setup
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: August 20th, 2021:
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Finished the tic tac toe project and got a rudementary understanding of react from it there were a few things that flew over my head, but it was good exposure, I also decided to start following this react crash course to get a bit of a more detailed explanation of some of the parts of react such as "this", state, props and hooks
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Youtube course: https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=667s
