@@ -1,9 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-
-##### (delete me or comment me out)
-
 ### Day 1: August 19th, 2021:
 
 Started the Facebook React tutorial with the tic tac toe game and was able to get half way through it in my hour also spent a bunch of time fiddling to get my environment setup
