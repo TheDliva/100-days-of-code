@@ -1,9 +1,19 @@
-import React from "react";
+import React, { useRef, useState } from "react";
 
-const TweetBox = ({ input }) => {
+const TweetBox = () => {
+  const input = useRef();
+  const [text, setText] = useState("NA");
+
+  const postTweet = () => {};
   return (
     <div>
-      <input>input</input>
+      <input
+        type="text"
+        ref={input}
+        onChange={() => setText(input.current.value)}
+      ></input>
+      <button onClick={() => console.log(input.current.value)}>submit</button>
+      <p>{text}</p>
     </div>
   );
 };
